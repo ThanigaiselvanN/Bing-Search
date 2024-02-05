@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Bing_Search_Server_App.props" />
+</Project>

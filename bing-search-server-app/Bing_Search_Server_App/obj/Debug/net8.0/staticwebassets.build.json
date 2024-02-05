@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "puwjTvcb8j3VOFloDfWG6BGpqA7L15Y0jdnJf6j78zM=",
+  "Source": "Bing_Search_Server_App",
+  "BasePath": "_content/Bing_Search_Server_App",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
